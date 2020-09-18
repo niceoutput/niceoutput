@@ -15,4 +15,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niceoutput&layout=compact)](https://github.com/niceoutput/github-readme-stats)
 
-![Mário's github stats](https://github-readme-stats.vercel.app/api?username=niceoutput&show_icons=true&theme=radical)
+![Mário's github stats](https://github-readme-stats.vercel.app/api?username=niceoutput&show_icons=true&count_private=true)
