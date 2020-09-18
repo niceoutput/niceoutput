@@ -10,3 +10,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: 我不在乎你！
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niceoutput&layout=compact)](https://github.com/niceoutput/github-readme-stats)
