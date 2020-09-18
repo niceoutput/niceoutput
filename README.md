@@ -13,7 +13,7 @@
 
 ### If you want to know more about me...
 
-🚀 Fire up your terminal and run `npx niceoutput` and enjoy
+🚀 Fire up your terminal, run `npx niceoutput` and enjoy
 
 ---
 
