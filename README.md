@@ -11,6 +11,10 @@
 - 🥅 2020 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: 我不在乎你！
 
+### If you want to know more about me...
+
+🚀 Fire up your terminal and run `npx niceoutput` and enjoy
+
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=niceoutput&layout=compact)](https://github.com/niceoutput/github-readme-stats)
